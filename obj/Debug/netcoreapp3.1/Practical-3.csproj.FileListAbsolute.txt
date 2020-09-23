@@ -1,0 +1,13 @@
+D:\repos\Practical-3\bin\Debug\netcoreapp3.1\Practical-3.exe
+D:\repos\Practical-3\bin\Debug\netcoreapp3.1\Practical-3.deps.json
+D:\repos\Practical-3\bin\Debug\netcoreapp3.1\Practical-3.runtimeconfig.json
+D:\repos\Practical-3\bin\Debug\netcoreapp3.1\Practical-3.runtimeconfig.dev.json
+D:\repos\Practical-3\bin\Debug\netcoreapp3.1\Practical-3.dll
+D:\repos\Practical-3\bin\Debug\netcoreapp3.1\Practical-3.pdb
+D:\repos\Practical-3\obj\Debug\netcoreapp3.1\Practical-3.csprojAssemblyReference.cache
+D:\repos\Practical-3\obj\Debug\netcoreapp3.1\Practical-3.AssemblyInfoInputs.cache
+D:\repos\Practical-3\obj\Debug\netcoreapp3.1\Practical-3.AssemblyInfo.cs
+D:\repos\Practical-3\obj\Debug\netcoreapp3.1\Practical-3.csproj.CoreCompileInputs.cache
+D:\repos\Practical-3\obj\Debug\netcoreapp3.1\Practical-3.dll
+D:\repos\Practical-3\obj\Debug\netcoreapp3.1\Practical-3.pdb
+D:\repos\Practical-3\obj\Debug\netcoreapp3.1\Practical-3.genruntimeconfig.cache

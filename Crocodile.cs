@@ -6,9 +6,42 @@ namespace Practical_3
 {
     class Crocodile : ITerrestrialAnimal ,IMarineAnimal
     {
-        int id { get; set}
-        string name { get; set}
-        int age { get; set}
+        int id;
+        string name;
+        int age;
+        public int ID
+        {
+            set
+            {
+                id = value;
+            }
+            get
+            {
+                return id;
+            }
+        }
+        public string Name
+        {
+            set
+            {
+                name = value;
+            }
+            get
+            {
+                return name;
+            }
+        }
+        public int Age
+        {
+            set
+            {
+                age = value;
+            }
+            get
+            {
+                return age;
+            }
+        }
 
         void ITerrestrialAnimal.Move()
         {
